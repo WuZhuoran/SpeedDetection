@@ -1,6 +1,6 @@
 # Data Folder
-train/*.jpg
-test/*.jpg
+data/train/*.jpg
+data/test/*.jpg
 train.mp4
 test.mp4
 train.txt
