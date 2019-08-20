@@ -1,3 +1,10 @@
+# Data Folder
+train/*.jpg
+test/*.jpg
+train.mp4
+test.mp4
+train.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
